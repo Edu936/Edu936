@@ -1,2 +1,2 @@
 ### Oi Tudo bem? Sou Eduardo Vieira 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Eduardo github status](https://github-readme-stats.vercel.app/api?username=Edu936&show_icons=true&theme=radical)
